@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Simple OTP and Password Generator</h1>
 
+
+
 <p align="center"><img src="https://github.com/blackcode1996/simple-otp-generator/assets/110044436/1b8c2877-c232-4697-a4fe-e1646860d6a6" alt="project-image" width="180" height="180/"></p>
 <p align="center">Generate one-time passwords (OTPs) and Random Password with ease.</p>
 
